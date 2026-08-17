@@ -6,7 +6,7 @@ A single-page Power BI report that turns raw, product-level supply chain data in
 
 ## 📸 Dashboard
 
-![Supply Chain Dashboard](screenshots/dashboard.png)
+![Supply Chain Dashboard](Screenshot 2026-08-04 174443.png)
 
 **KPI cards:** Total Revenue (577.60K) · Total Products Sold (46K) · Net Profit (524.68K) · Profit Margin % (0.91)
 
